@@ -1,0 +1,719 @@
+commit dedc5bd11df660eda39c52b9115337ef5577bd7d
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 25 20:08:28 2021 -0700
+
+    update
+
+commit c394606149d81096b71af83690ccc23f75dd5be6
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 25 20:07:42 2021 -0700
+
+    update
+
+commit 39261f4247fdebf3092b1b8289ba86fbb808b3c0
+Merge: dc12c22 67404c0
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 25 20:07:11 2021 -0700
+
+    Update README.MD
+
+commit dc12c228dadec774d4c67c780710b06dc7e09f4f
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 25 20:06:06 2021 -0700
+
+    update
+
+commit 67404c0030f1060496c89eaf02131ca7a3a5916a
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 25 19:58:04 2021 -0700
+
+    Update README.MD
+
+commit 756c457b7355ebd4bc800ef72d7698eda9ab727a
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 25 19:24:53 2021 -0700
+
+    Update README.MD
+
+commit 93e43b79be89661fa3f7c6a90ea369b5bf932be2
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 25 19:23:50 2021 -0700
+
+    Add files via upload
+
+commit 74827fd3c3dfd6face11456033bb9050a6f41744
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 25 19:23:03 2021 -0700
+
+    Delete DFD_02x.png
+
+commit efdbb853ed89c50138ca3381e73f20dc1a6ce540
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Mar 24 20:29:15 2021 -0700
+
+    final version (hopefully)
+
+commit 4cbe4a6e399883ecff2aaea7f2f232aed48d53ca
+Merge: 2400e3f 54b7c2b
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Mar 24 20:28:14 2021 -0700
+
+    Merge branch 'version1' of https://github.com/COSC310-Team-2/Chatbot into version1
+
+commit 2400e3f7ad7f26551e29988d295fa51f6a797a01
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Mar 24 20:28:03 2021 -0700
+
+    Final version (hopefully)
+
+commit 54b7c2b6605cadaa7b36ef34de4113527618220f
+Merge: abc20a6 a4fa526
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 20:15:46 2021 -0700
+
+    Merge branch 'version1' of https://github.com/COSC310-Team-2/Chatbot into version1
+
+commit abc20a63dead6acf1ae0738d5caa8573fb847cef
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 20:15:39 2021 -0700
+
+    update
+
+commit a4fa526855d1b6feeb83be1ce34a9994c0c600e4
+Merge: 05369c4 4e1435d
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Mar 24 19:53:51 2021 -0700
+
+    Merge branch 'version1' of https://github.com/COSC310-Team-2/Chatbot into version1
+
+commit 05369c4f600381daf498a05ac2d78544807bc3e6
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Mar 24 19:53:32 2021 -0700
+
+    Update Chatbot.java
+
+commit 4e1435d9ef9e7727f013b5c2d5f7c1c99a505a38
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 19:05:44 2021 -0700
+
+    Update README.MD
+
+commit 9ba0ec223e07bad42fcf47df1f4cc1595cba1ae5
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 19:04:25 2021 -0700
+
+    Update README.MD
+
+commit d968be1237d422e71fd2089ea772b5565d8bca18
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 19:00:13 2021 -0700
+
+    Update README.MD
+
+commit 1a5a54bf48cc06a0892e49a3c1efdb0c72c8ced5
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 18:52:09 2021 -0700
+
+    Delete Knowledge.dat
+
+commit c81d782c2192d37111c6cfb7abf0e7e8725f7308
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Wed Mar 24 18:51:53 2021 -0700
+
+    Update README.MD
+
+commit e1e9b64977ec58b581e5035491fd2de3a0adef16
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Wed Mar 24 18:50:04 2021 -0700
+
+    Update README.MD
+
+commit 312b9a5fafccb4b187d74c7992bc017319bdaa1b
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Wed Mar 24 18:44:43 2021 -0700
+
+    Update README.MD
+
+commit 0f4ffef51013c90701d53fce8cd37827ba388dbb
+Merge: a69a8ae cb5e995
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 18:43:50 2021 -0700
+
+    Merge branch 'version1' of https://github.com/COSC310-Team-2/Chatbot into version1
+
+commit a69a8aeb56a9106cf9550d5cbf576cce7b17c6aa
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 18:43:38 2021 -0700
+
+    update
+
+commit cb5e99561a478d8b01347ec20253a73ef1e31bd8
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Mar 24 18:42:16 2021 -0700
+
+    updated javadoc and added image
+
+commit 6304885e51d0a48224d09a2cfc8649d1ce6466d3
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Wed Mar 24 18:11:34 2021 -0700
+
+    Update README.MD
+
+commit 2d43c5ac58298a1f0082b4928853c1ce42e2587e
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Wed Mar 24 18:09:25 2021 -0700
+
+    Update README.MD
+
+commit 863ced86f7e2d1520a3ecc0cd64faa300a2a59fb
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Wed Mar 24 18:08:28 2021 -0700
+
+    Update README.MD
+
+commit 18ffaba63e5f45587553aa350102b1c9eb13a9ab
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Mar 24 18:06:45 2021 -0700
+
+    added images
+
+commit e81b5c2fdd90ac39f04eea3e188c07c69c5cc4fb
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Mar 24 18:03:02 2021 -0700
+
+    Fixed spelling corrector
+
+commit dd13a049c660e5ee9ac8fe0327f8701e460e9c1c
+Merge: c05259d 11f40eb
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 17:42:38 2021 -0700
+
+    Merge branch 'version1' of https://github.com/COSC310-Team-2/Chatbot into version1
+
+commit c05259df66f21d4eb66f519e6791718d10f34720
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 17:42:15 2021 -0700
+
+    update
+
+commit 11f40eb79ffccf17f3224ade7464f8fb366cf27e
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 17:24:12 2021 -0700
+
+    Update README.MD
+
+commit ee410000815be10fb0027a83c9511846329be3fc
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 17:18:53 2021 -0700
+
+    Update README.MD
+
+commit a0b96c519e3d3fffa96bf84f47786eafdaccc034
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 17:15:31 2021 -0700
+
+    Update README.MD
+
+commit 78247aef19b72d7a05f0c33d8147a90423d211b5
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Wed Mar 24 17:07:33 2021 -0700
+
+    Update README.MD
+
+commit bf78ac49415a6e5c5722675c1f391101112b386f
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Wed Mar 24 17:06:27 2021 -0700
+
+    added image
+
+commit 13f393f0fb1bfe1079381c1d795a0bb2a18e20c1
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 17:03:40 2021 -0700
+
+    update
+
+commit 01f70b343e8fe98740789cb2f31f46ec7e6958ce
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 17:00:52 2021 -0700
+
+    Update README.MD
+
+commit 86e3b06c6f4912bbf509cb3d06bc73892baade72
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Wed Mar 24 17:00:29 2021 -0700
+
+    Added link to jar
+
+commit eacd6d3515671be7eb1f8bbeb9570b91363ba833
+Merge: 9d03455 0264f3a
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Mar 24 16:49:29 2021 -0700
+
+    Merge branch 'version1' of https://github.com/COSC310-Team-2/Chatbot into version1
+
+commit 9d0345565ce37e0bfd1476f25b093399cfd41d74
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Mar 24 16:49:15 2021 -0700
+
+    added javadoc
+
+commit 0264f3a93acf37b9184082ab0230dab857ff6f3a
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 16:28:06 2021 -0700
+
+    update
+
+commit 8b32ba687adde68c43c61d42190278e686ce723c
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Mar 24 16:25:24 2021 -0700
+
+    update
+
+commit 894eb161ca1197fc747a9c44addf00a23a8101d9
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Mar 24 10:58:40 2021 -0700
+
+    update
+
+commit c9914ab1b139019c225b4cdc5c647dad31545b01
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Mar 23 23:31:16 2021 -0700
+
+    update
+
+commit 4da2fa35152630404db8a8958578c0d1e37c7656
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Mar 23 22:00:24 2021 -0700
+
+    update
+
+commit c7b507ba2f96cb82ccebd0b481654684897ee960
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Tue Mar 23 21:53:11 2021 -0700
+
+    Added  Stanford nlp
+
+commit 6ae09dc530fda0b29f6085b1c9fd409e5df3b71d
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Mar 23 21:50:26 2021 -0700
+
+    update
+
+commit 54198ed6009c9e5c83c60314aedf536a11557e27
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Mar 23 21:43:55 2021 -0700
+
+    update
+
+commit dfcd634438bf76d6874219a4aa1e3eb5dcf69b18
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Mar 23 16:14:35 2021 -0700
+
+    update
+
+commit e199d3a8ef7c5f64000da06a0e68b6940cd0636c
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Mar 23 14:22:27 2021 -0700
+
+    update
+
+commit 473aa0a1e5d36ee720fae02cdbd9591eba5fe541
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Mar 23 14:18:34 2021 -0700
+
+    update
+
+commit bd12e68013d7e15f86d7bf6e977aa7bfba03f59d
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Mon Mar 22 21:21:27 2021 -0700
+
+    Add files via upload
+
+commit 79425a136636f596b2fe485fceaaa3e5afb4a360
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Mon Mar 22 21:20:39 2021 -0700
+
+    Delete knowledge.dat
+
+commit 93ace80d56f299ee16c9f8a3bf6dfc7edeb30927
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Mon Mar 22 21:18:00 2021 -0700
+
+    update
+
+commit a552278408924c966a5b28923edc77df1cd2aa6d
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Mon Mar 22 18:07:02 2021 -0700
+
+    update
+
+commit 2c0df5d09593322d3c21e06ae53e7005344eaf63
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Mon Mar 22 13:22:52 2021 -0700
+
+    reset knowledge
+
+commit 25d3c277f7d8a46dcf3e8a0fb697510ca82cc7d7
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Fri Mar 19 12:41:19 2021 -0700
+
+    update
+
+commit 3b697155859865b9456448f747d2594b6c4534b8
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 18 15:53:29 2021 -0700
+
+    update
+
+commit 6927237d2592572994cb41f03a437bad18d40e13
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 18 15:48:31 2021 -0700
+
+    update
+
+commit 382ae16a3f76a50329b4ce842bef18a76999bbb9
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 18 13:31:57 2021 -0700
+
+    update
+
+commit 5730d7dbaf07e1313e075e4077959bb50643d060
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 18 13:29:19 2021 -0700
+
+    Delete knowledge.dat
+
+commit e3a57440fbbaae17cd4272b5baa45571d8158e2d
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 18 13:29:11 2021 -0700
+
+    Delete Ferdinand's code/src/pkg1 directory
+
+commit c8a7715e7035aca244b92583b9a9045b183881c4
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 11 18:19:30 2021 -0800
+
+    Update README.MD
+
+commit 240d934765fbdc1bdb45dd948db17a720fe7c9c4
+Merge: 4bf6a12 3ef14c7
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 11 16:31:58 2021 -0800
+
+    Merge pull request #11 from COSC310-Team-2/Ferdinand's-Branch
+    
+    Ferdinand's branch
+
+commit 4bf6a12a58bdbc3aff0e8f7a64e023a708dcf4ae
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 11 16:30:51 2021 -0800
+
+    Delete README.md
+
+commit 6ad0dff88c30f2517f3775d1d33f8e206ad9d5cd
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 11 16:30:20 2021 -0800
+
+    Delete core directory
+
+commit 3ef14c7e547ede3e618c97bc821177db0b160f76
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Mar 11 16:27:32 2021 -0800
+
+    update
+
+commit 9736d6d3444ef22794bbec2a2099e7a869b89681
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Fri Mar 5 13:01:43 2021 -0800
+
+    Update README.txt
+
+commit ae3e917205b74a4594ac30f3f74e7a5af614ecbd
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Fri Mar 5 13:01:17 2021 -0800
+
+    Update Bot.java
+
+commit acc5e4211405c905b6165ac640056478078fa245
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Fri Mar 5 12:59:40 2021 -0800
+
+    Update README.txt
+
+commit ea1c3538eec9d70e6b364db752628d7469aee669
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Fri Mar 5 12:57:25 2021 -0800
+
+    Added knowledge and improved bot repetitiveness
+
+commit f11582d5b8934d3ab785a68113cd7f1baafc547a
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Fri Mar 5 10:45:10 2021 -0800
+
+    Added comments
+
+commit 31a789825f8699b89149e400b2d478e5b8bca26b
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Fri Mar 5 10:35:24 2021 -0800
+
+    Update README.txt
+
+commit 5595534a4575637f5ec7caf5953b67627af3b3f7
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Fri Mar 5 10:29:24 2021 -0800
+
+    MOVED TO NEW README
+
+commit d7468465ce572891f038caf936f086df174cd2db
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Fri Mar 5 10:17:06 2021 -0800
+
+    A README file included in the repository to explain what the project is about, how to compile and run the code.
+
+commit e5c2164b3195d13c1883708503092f16613fac38
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Mon Feb 22 10:55:02 2021 -0800
+
+    Added knowledge
+
+commit 8d831e99cea509b42ad05776948e41302abc2cb0
+Merge: e280bc1 f50032d
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Thu Feb 18 18:40:29 2021 -0800
+
+    Merge branch 'Ferdinand's-Branch' of https://github.com/COSC310-Team-2/Chatbot into Ferdinand's-Branch
+
+commit e280bc14ca9c17313c1814ebd8150e78c8040ecc
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Thu Feb 18 18:40:17 2021 -0800
+
+    Update Bot.java
+
+commit f50032d9d13c3dd70359bfb2baf17f56773c11f3
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Thu Feb 18 17:20:39 2021 -0800
+
+    Update README.txt
+
+commit c774818604d30b09d3619589f564c7a44959daed
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Thu Feb 18 17:04:41 2021 -0800
+
+    Major improvements to word matching
+
+commit c915655425b84dc8807351595d8ef6bcc10b8e25
+Merge: d4fd041 7465f0c
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Thu Feb 18 15:53:13 2021 -0800
+
+    Merge branch 'Ferdinand's-Branch' of https://github.com/COSC310-Team-2/Chatbot into Ferdinand's-Branch
+
+commit d4fd0415d613120897dde6dd2fc5fc0eb3537b93
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Thu Feb 18 15:52:57 2021 -0800
+
+    Fixed major word-matching bug
+
+commit 7465f0c556d0c291005281fa014fffe4fe42e0a8
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Thu Feb 18 13:28:23 2021 -0800
+
+    Update README.txt
+
+commit c53ce74560b0c75e69d2ebe2488d1503114e2e26
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Thu Feb 18 13:26:29 2021 -0800
+
+    bot now ignores "ing" ending while matching words
+
+commit b3799311fd3acc3d6b224a8f55064d4ee72c6415
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Thu Feb 18 12:50:34 2021 -0800
+
+    Update README.txt
+
+commit 2e31ad955d4921bd0f959d2f881750ba81862329
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Thu Feb 18 12:47:55 2021 -0800
+
+    Update README.txt
+
+commit ede1abb2abb18dc616945594cfba6ce85e65fd5e
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Thu Feb 18 12:42:46 2021 -0800
+
+    Simplified the code, added comments, removed redundancy.
+
+commit 7ebdfaa1a3aa5fffb1658e2bf06a7b9abfa62d16
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Wed Feb 17 15:54:04 2021 -0800
+
+    deleted useless files
+
+commit 212b888717500bfee4726627243cb5fde886e885
+Merge: 7e3e6de bbb0663
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Feb 17 14:26:40 2021 -0800
+
+    Merge pull request #2 from COSC310-Team-2/Tyler's-Branch
+    
+    Tyler's branch
+
+commit bbb0663d2396e76ca920dc618410087d73807d05
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Feb 17 14:26:09 2021 -0800
+
+    patch-5
+
+commit a2beaa532976ea99b75ac1a5e14f66e63a0a19ac
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Wed Feb 17 13:41:27 2021 -0800
+
+    patch-3
+
+commit 7e3e6de109048db7954133c63a301ba7f5537640
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Feb 16 16:35:27 2021 -0800
+
+    Create README.MD
+
+commit 695e94a51e30f99fc31c0d194d8762a0a4563e2d
+Merge: d56a280 c326b17
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Feb 16 16:34:28 2021 -0800
+
+    Merge pull request #1 from COSC310-Team-2/Tyler's-Branch
+    
+    Tyler's branch
+
+commit c326b175ea9c237bdc95e4ad50ce7d6582be93ce
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Feb 16 16:33:38 2021 -0800
+
+    patch-2
+
+commit 3dedc270ac5d0b808a6419c3a8fe7b663305c0a4
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Feb 16 14:39:17 2021 -0800
+
+    Update Chatbot.java
+
+commit c5972bb1cb8c49c60f02a01f96ba581d219338dc
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Tue Feb 16 14:12:07 2021 -0800
+
+    patch-1
+
+commit c01064cd9dec132a0801645f2dcbaf0708bb836c
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Mon Feb 15 19:57:21 2021 -0800
+
+    added more knowledge
+
+commit 1a83b2a6ae2d5882f5690d4c40d626ee5254117e
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Mon Feb 15 15:16:49 2021 -0800
+
+    Delete knowlage.dat
+
+commit 85ade5c4cb7dad0aa1c0a816ce125532f0c7cd3d
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Mon Feb 15 15:15:56 2021 -0800
+
+    improvements
+    
+    the bot needs lots of training
+
+commit 5448084c1206fca0abf31c2019d9ef060dc4135b
+Merge: 17a361b 192cbc4
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Mon Feb 15 13:53:14 2021 -0800
+
+    Merge branch 'Ferdinand's-Branch' of https://github.com/COSC310-Team-2/Chatbot into Ferdinand's-Branch
+
+commit 17a361b175b4c5fab6b66ee45046ef3d66e90c36
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Mon Feb 15 13:53:07 2021 -0800
+
+    minor tweaks to word matching
+
+commit 192cbc4093bcb5e3dcfcf4de88bb623bd08fc077
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Mon Feb 15 13:40:42 2021 -0800
+
+    Update README.txt
+
+commit b1f4aa4da774a924592a1e6ef714e1050fd609b9
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Mon Feb 15 13:39:12 2021 -0800
+
+    Major bot improvements.
+
+commit 533f1e0e717f3363f9a859726e79f7944279f410
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Mon Feb 15 13:36:24 2021 -0800
+
+    Delete README.md
+
+commit ca9e89a175b7fb36ca3bbd766d41ba298ae93b3c
+Merge: 2cb9db2 1c904c6
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Mon Feb 15 13:35:01 2021 -0800
+
+    Merge branch 'Ferdinand's-Branch' of https://github.com/COSC310-Team-2/Chatbot into Ferdinand's-Branch
+
+commit 2cb9db2419054c5a3a1363d9e76e1079d3faf1e3
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Mon Feb 15 13:34:04 2021 -0800
+
+    bot improvements
+
+commit 1c904c6d62d800c49d1049973c733aba6e647555
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Sun Feb 14 16:49:39 2021 -0800
+
+    Update README.txt
+
+commit 9c04480e34f37d8282558f4ccbbe4623e1afa376
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Sun Feb 14 16:44:32 2021 -0800
+
+    Spellchecks
+
+commit 1f08193535b44dbe9e77cd0453603b64c5adbe62
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Sun Feb 14 16:39:00 2021 -0800
+
+    Rename README.md to README.txt
+
+commit 5f2969b75c344a43dbe7ae6115ffee43972d624e
+Author: Ferdinand737 <71345367+Ferdinand737@users.noreply.github.com>
+Date:   Sun Feb 14 16:37:37 2021 -0800
+
+    Explanation of bot
+
+commit 1f3ea578fd4c571c10ffd73c7fe9742d20391c4a
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Sun Feb 14 16:19:55 2021 -0800
+
+    First prototype
+    
+    simple chatbot
+
+commit d56a2802425949439ddba3cb8009b4125522e715
+Author: Ferdinand737 <ferdinandhaaben@gmail.com>
+Date:   Fri Feb 12 16:38:43 2021 -0800
+
+    test
+
+commit ea161c9c6759aaca357137995ce1e0accf30d2cc
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Feb 11 16:57:19 2021 -0800
+
+    Update README.md
+
+commit 0a918a763e03fbcc5cac27a2f33d0fc232ecd6c4
+Author: Tyler <51102056+TeaRog@users.noreply.github.com>
+Date:   Thu Feb 11 15:07:40 2021 -0800
+
+    Initial commit
