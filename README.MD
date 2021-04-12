@@ -60,7 +60,7 @@ The conversation topics are
 
 ### Wikipedia API
 <ul>
-<li>The bot will google search the input string with wikipedia on the end and return the first sentance of the wikipedia page using the wikipedia API/li>
+<li>The bot will google search the input string with wikipedia on the end and return the first sentance of the wikipedia page using the wikipedia API</li>
 </ul>
 </li>
 
