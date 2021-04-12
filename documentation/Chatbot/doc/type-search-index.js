@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"core","l":"Chatbot"},{"p":"core","l":"Chatbot.GUI"},{"p":"core","l":"Knowledge"},{"p":"core","l":"Chatbot.SpellChecker.Levenshtein"},{"p":"core","l":"Pipeline"},{"p":"core","l":"Chatbot.SpellChecker"},{"p":"core","l":"Test"}];updateSearchResults();
